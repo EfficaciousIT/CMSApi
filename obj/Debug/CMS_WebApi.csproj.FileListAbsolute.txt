@@ -203,3 +203,5 @@ E:\Effi work\Work From Home\CMS_WebApi\CMS_WebApi\bin\System.Web.Http.WebHost.xm
 E:\Effi work\Work From Home\CMS_WebApi\CMS_WebApi\obj\Debug\CMS_WebApi.csprojResolveAssemblyReference.cache
 E:\Effi work\Work From Home\CMS_WebApi\CMS_WebApi\obj\Debug\CMS_WebApi.dll
 E:\Effi work\Work From Home\CMS_WebApi\CMS_WebApi\obj\Debug\CMS_WebApi.pdb
+E:\Efficacious\Git_Projects\CMSAPI\CMSApi\obj\Debug\CMS_WebApi.dll
+E:\Efficacious\Git_Projects\CMSAPI\CMSApi\obj\Debug\CMS_WebApi.pdb
