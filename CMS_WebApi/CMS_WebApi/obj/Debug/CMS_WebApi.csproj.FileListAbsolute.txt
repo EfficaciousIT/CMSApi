@@ -1,0 +1,164 @@
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\ApplicationInsights.config
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\roslyn\csc.exe
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\roslyn\vbc.exe
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\roslyn\VBCSCompiler.exe
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\CMS_WebApi.dll.config
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\CMS_WebApi.dll
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\CMS_WebApi.pdb
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.Web.dll
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\Microsoft.ApplicationInsights.dll
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\Newtonsoft.Json.dll
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\System.Net.Http.Formatting.dll
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\System.Web.Http.dll
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\System.Web.Http.WebHost.dll
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.Web.xml
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\Microsoft.ApplicationInsights.xml
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\Newtonsoft.Json.xml
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\System.Net.Http.Formatting.xml
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\System.Web.Http.xml
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\bin\System.Web.Http.WebHost.xml
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\obj\Debug\CMS_WebApi.csprojResolveAssemblyReference.cache
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\obj\Debug\CMS_WebApi.dll
+D:\ApiDemo\CMS_WebApi\CMS_WebApi\obj\Debug\CMS_WebApi.pdb
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\ApplicationInsights.config
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\roslyn\csc.exe
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\roslyn\vbc.exe
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\roslyn\VBCSCompiler.exe
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\CMS_WebApi.dll.config
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\CMS_WebApi.dll
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\CMS_WebApi.pdb
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.Web.dll
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\System.Net.Http.Formatting.dll
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\System.Web.Http.dll
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\System.Web.Http.WebHost.dll
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.Web.xml
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.ApplicationInsights.xml
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\System.Net.Http.Formatting.xml
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\System.Web.Http.xml
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\bin\System.Web.Http.WebHost.xml
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\obj\Debug\CMS_WebApi.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\obj\Debug\CMS_WebApi.dll
+C:\inetpub\wwwroot\Kolkata\CMS_WebApi\CMS_WebApi\obj\Debug\CMS_WebApi.pdb
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\ApplicationInsights.config
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\roslyn\csc.exe
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\roslyn\vbc.exe
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\roslyn\VBCSCompiler.exe
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\CMS_WebApi.dll.config
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\CMS_WebApi.dll
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\CMS_WebApi.pdb
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.Web.dll
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.ApplicationInsights.dll
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\Newtonsoft.Json.dll
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\System.Net.Http.Formatting.dll
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\System.Web.Http.dll
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\System.Web.Http.WebHost.dll
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.Web.xml
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.ApplicationInsights.xml
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\Newtonsoft.Json.xml
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\System.Net.Http.Formatting.xml
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\System.Web.Http.xml
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\bin\System.Web.Http.WebHost.xml
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\obj\Debug\CMS_WebApi.csprojResolveAssemblyReference.cache
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\obj\Debug\CMS_WebApi.dll
+D:\Application Live\Kolkata\CMS_WebApi\CMS_WebApi\obj\Debug\CMS_WebApi.pdb
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\ApplicationInsights.config
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\roslyn\csc.exe
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\roslyn\vbc.exe
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\roslyn\VBCSCompiler.exe
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\CMS_WebApi.dll.config
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\CMS_WebApi.dll
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\CMS_WebApi.pdb
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.Web.dll
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\Microsoft.ApplicationInsights.dll
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\Newtonsoft.Json.dll
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\System.Net.Http.Formatting.dll
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\System.Web.Http.dll
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\System.Web.Http.WebHost.dll
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.Web.xml
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\Microsoft.ApplicationInsights.xml
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\Newtonsoft.Json.xml
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\System.Net.Http.Formatting.xml
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\System.Web.Http.xml
+D:\UAT\CMS_WebApi\CMS_WebApi\bin\System.Web.Http.WebHost.xml
+D:\UAT\CMS_WebApi\CMS_WebApi\obj\Debug\CMS_WebApi.csprojResolveAssemblyReference.cache
+D:\UAT\CMS_WebApi\CMS_WebApi\obj\Debug\CMS_WebApi.dll
+D:\UAT\CMS_WebApi\CMS_WebApi\obj\Debug\CMS_WebApi.pdb
